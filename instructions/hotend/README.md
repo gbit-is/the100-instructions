@@ -1,8 +1,34 @@
-# About
+# Toolhead Print Orientation
 
-While preparing to build [The 100 3D printer](https://github.com/MSzturc/the100) I had a hard time following parts of [the video guide](https://www.youtube.com/watch?v=fC4BB4BhjOo&list=PLM01o_dfwbDcKYB-9yV0vLs5k0CrHUv0W) since it all happens quite quickly so I started arranging the STL's to visualize it for myself. I though this might be of use to others.
-To arrange the STL's I just used tinkercad, if you want to view it in tinkercad, [use this link](https://www.tinkercad.com/things/cHlgLPrpjb7)
+##### The Fanhead
+https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/fan_ducts_2.png
+
+###### The rod Carriage
+https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/rod_carriage.png
+
+##### The tool mount
+![tool mount print orientation](https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/hotend_holder.png)
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# Assembly of the toolhead
+
+
+### Parts to print (Universal)
+
+1x TD6_Fanhead.stl
+1x Rod-Cradle.stl
+1x Connection_fanhead.stl
+
+### Parts to print for CHC Pro Nozzle
+
+1x TD6_Pro_Front.stl
+1x TD6_PRO_Tool-mount.stl
+
+### Parts to print the CHC Nozzle
+1x TD6_Front.stl
+1x TD6_Tool-mount.stl
+
+### Non-Printed parts:
+
+Screws: -- Get a list of screws --
