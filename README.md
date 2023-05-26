@@ -5,4 +5,3 @@ To arrange the STL's I just used tinkercad, if you want to view it in tinkercad,
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
