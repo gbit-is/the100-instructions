@@ -1,10 +1,10 @@
 # Toolhead Print Orientation
 
 ##### The Fanhead
-https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/fan_ducts_2.png
+![fan_ducts_print_orientation](https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/fan_ducts_2.png)
 
 ###### The rod Carriage
-https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/rod_carriage.png
+![rod_carriage_print_orientation](https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/rod_carriage.png)
 
 ##### The tool mount
 ![tool mount print orientation](https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/hotend_holder.png)
