@@ -2,16 +2,23 @@
 
 ##### The Fanhead
 
-<img src="https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/fan_ducts_2.png" width="50%">
+Print the fanhead upside down with supports, but disable supports from the marked area 
+
+<img src="https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/toolhead_fanend_print_orientation.png" width="50%">
 
 
 ###### The rod Carriage
 
-<img src="https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/rod_carriage.png" width="50%">
+Print the rod carriage on its side, with supports enabled 
+
+<img src="https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/toolhead_rod_cariage_print_orientation.png" width="50%">
 
 
 
 ##### The tool mount
-<img src="https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/hotend_holder.png" width="50%">
+
+Print the tool mount on its back, no supports needed 
+
+<img src="https://raw.githubusercontent.com/gbit-is/the100-instructions/main/source/print_orientation/toolhead/toolhead_hotend_holer_print_orientation.png" width="50%">
 
 
